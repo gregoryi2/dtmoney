@@ -2,23 +2,23 @@
 Uma aplicação de controle de finanças feito com React e Typescript.
 
 O desenvolvimento deste aplicativo faz parte do exercício do Bootcamp da Rocketseat.
-
+<br>
 
 <strong>Instale as seguintes dependências antes de rodar o projeto:</strong>
 
-yarn add styled-components
+° yarn add styled-components
 
-yarn add @types/styled-components -D
+° yarn add @types/styled-components -D
 
-yarn add miragejs
+° yarn add miragejs
 
-yarn add axios
+° yarn add axios
 
-yarn add react-modal
+° yarn add react-modal
 
-yarn add @types/react-modal -D
+° yarn add @types/react-modal -D
 
-yarn add polished
+° yarn add polished
 
 <br><br>
 
