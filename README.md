@@ -4,9 +4,9 @@ Uma aplicação de controle de finanças feito com React e Typescript.
 O desenvolvimento deste aplicativo faz parte do exercício do Bootcamp da Rocketseat.
 <br><br>
 
-<strong>Instale as seguintes dependências antes de rodar o projeto:</strong>
+<h2>Instale as seguintes dependências antes de rodar o projeto:</h2>
 
-<small> 1°) - yarn add styled-components </small>
+1°) - yarn add styled-components
 
 2°) - yarn add @types/styled-components -D
 
