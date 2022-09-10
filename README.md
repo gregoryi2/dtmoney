@@ -22,8 +22,8 @@ yarn add polished
 
 <br><br>
 
-<img src="https://github.com/gregoryi2/dtmoney/edit/master/Print.png">
+<img src="https://raw.githubusercontent.com/gregoryi2/dtmoney/master/Print.png">
 
 <br><br>
 
-<img src="https://github.com/gregoryi2/dtmoney/edit/master/Print 2.png">
+<img src="https://raw.githubusercontent.com/gregoryi2/dtmoney/master/Print%202.png">
